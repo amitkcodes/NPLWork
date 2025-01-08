@@ -1,0 +1,33 @@
+Timestamp,IP Address,Location,Status
+48:33.8,172.16.26.9,Outside head IST,Success
+48:33.8,172.16.26.16,Reception of auditorium,Success
+48:33.8,172.16.26.17,Inside auditorium,Success
+48:33.8,172.16.26.3,Outside main building,Success
+48:33.8,172.16.26.7,Conference room metrology,Success
+48:36.8,172.16.26.12,Electrical section,Success
+48:54.8,172.16.26.14,Inside main building,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+48:54.9,172.16.26.10,Room No. 31,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+49:52.6,172.16.26.9,Outside head IST,Success
+49:52.6,172.16.26.3,Outside main building,Success
+49:52.6,172.16.26.12,Electrical section,Success
+49:52.6,172.16.26.7,Conference room metrology,Success
+49:52.6,172.16.26.16,Reception of auditorium,Success
+49:52.6,172.16.26.17,Inside auditorium,Success
+50:13.6,172.16.26.10,Room No. 31,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+50:13.6,172.16.26.14,Inside main building,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+2025-01-07 14:53:52.625940,172.16.26.9,Outside head IST,Success
+2025-01-07 14:53:52.626915,172.16.26.17,Inside auditorium,Success
+2025-01-07 14:53:52.626915,172.16.26.16,Reception of auditorium,Success
+2025-01-07 14:53:52.633782,172.16.26.7,Conference room metrology,Success
+2025-01-07 14:53:52.633782,172.16.26.3,Outside main building,Success
+2025-01-07 14:53:52.633782,172.16.26.12,Electrical section,Success
+2025-01-07 14:54:13.640051,172.16.26.10,Room No. 31,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+2025-01-07 14:54:13.641027,172.16.26.14,Inside main building,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+2025-01-07 14:57:22.032864,172.16.26.3,Outside main building,Success
+2025-01-07 14:57:22.032864,172.16.26.7,Conference room metrology,Success
+2025-01-07 14:57:22.032864,172.16.26.16,Reception of auditorium,Success
+2025-01-07 14:57:22.032864,172.16.26.12,Electrical section,Success
+2025-01-07 14:57:22.033848,172.16.26.17,Inside auditorium,Success
+2025-01-07 14:57:22.033848,172.16.26.9,Outside head IST,Success
+2025-01-07 14:57:43.039299,172.16.26.10,Room No. 31,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+2025-01-07 14:57:43.054036,172.16.26.14,Inside main building,"Failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
