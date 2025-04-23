@@ -1,0 +1,9 @@
+#Mention_list
+
+curl.exe -v -X POST http://127.0.0.1:5000/send-sms -H "Content-Type: application/json" -d "{\"message\":\"Test alert from API\"}"
+curl.exe -v -X POST http://127.0.0.1:5000/send-sms -H "Content-Type: application/json" -d "{\"message\":\"Test alert from API\"}"
+#List_of_mail
+
+curl.exe -v -X POST http://127.0.0.1:5000/send-sms -H "Content-Type: application/json" -d "{\"message\":\"Test alert from Free Email API\",\"to_emails\":[\"divyaforself@gmail.com\",\"amitkaushik337@gmail.com\"]}"
+curl.exe -v -X POST http://127.0.0.1:5000/send-sms -H "Content-Type: application/json" -d "{\"message\":\"Test alert from Free Email API\",\"to_emails\":[\"divyaforself@gmail.com\",\"amitnplindia21@gmail.com\"]}"
+
